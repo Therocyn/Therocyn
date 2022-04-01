@@ -2,7 +2,7 @@
     👋 Hi, my name is Vitor Simon! 
 </h1>
 <p align="left">
-    Welcome to my Github! I'm a engineering student and enthusiast of technology. I have some experience with C, Java and Python and currently i'm interested in topics related to machine learning and data science.
+    Welcome to my Github! I'm a engineering student and enthusiast of technology. I have some experience with C, Java and Python. Currently i'm interested in topics related to machine learning and data science.
     </p>
 <p align="center">
     <a href="https://www.linkedin.com/in/vitor-simon/">
